@@ -20,7 +20,7 @@
         "source": "https://github.com/ramsey/uuid"
     },
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.2"
     },
     "require-dev": {
         "doctrine/dbal": ">=2.3",
